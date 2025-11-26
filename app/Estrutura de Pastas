@@ -1,0 +1,6 @@
+/app
+  /login
+  /register
+  /dashboard
+  /ride
+/components
